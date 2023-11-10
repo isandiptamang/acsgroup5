@@ -1,0 +1,120 @@
+<div className="ManageAccount" style={{width: 1980, height: 3033, position: 'relative', background: '#EBF3E8'}}>
+  <div className="Rectangle39" style={{width: 1830, height: 575, left: 72, top: 1261, position: 'absolute', background: 'rgba(239, 204, 204, 0.50)', borderRadius: 30}} />
+  <div className="Rectangle43" style={{width: 1830, height: 394, left: 72, top: 1881, position: 'absolute', background: 'rgba(239, 204, 204, 0.50)', borderRadius: 30}} />
+  <div className="Rectangle44" style={{width: 1830, height: 329, left: 72, top: 2310, position: 'absolute', background: 'rgba(239, 204, 204, 0.50)', borderRadius: 30}} />
+  <div className="Rectangle40" style={{width: 1707, height: 117, left: 140, top: 1383, position: 'absolute', background: 'rgba(255, 255, 255, 0.70)', borderRadius: 30}} />
+  <div className="Rectangle41" style={{width: 1707, height: 117, left: 140, top: 1524, position: 'absolute', background: 'rgba(255, 255, 255, 0.70)', borderRadius: 30}} />
+  <div className="Rectangle29" style={{width: 365, height: 320, left: 1578, top: 222, position: 'absolute', background: '#B8EDBD', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25) inset', borderRadius: 30}} />
+  <div className="Rectangle30" style={{width: 365, height: 61, left: 1578, top: 352, position: 'absolute', background: '#86A789'}} />
+  <div className="Rectangle25" style={{width: 1980, height: 272, left: 0, top: 2763, position: 'absolute', background: '#B0B9AD'}} />
+  <div style={{left: 796, top: 2999, position: 'absolute', color: '#6E6A6A', fontSize: 20, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>2023</div>
+  <div className="AdvancedconsultingservicesAllRightsReserved" style={{left: 879, top: 2999, position: 'absolute', color: '#6E6A6A', fontSize: 20, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>AdvancedConsultingServices. All rights reserved</div>
+  <div className="Frame1" style={{width: 12, height: 42, left: 494, top: 2963, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0'}} />
+  <div className="CopyrightRegular1" style={{width: 18, height: 18, left: 558, top: 2996, position: 'absolute'}} />
+  <div className="Vector" style={{width: 20, height: 20, left: 851, top: 3003, position: 'absolute', background: '#6E6A6A'}}></div>
+  <div className="Line2" style={{width: 1890, height: 0, left: 1930, top: 2994, position: 'absolute', transform: 'rotate(179.87deg)', transformOrigin: '0 0', border: '1px black solid'}}></div>
+  <div className="KingStreetCanterburyNsw2193" style={{left: 1258, top: 2951, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>King Street, Canterbury NSW 2193</div>
+  <div className="LocationDotSolid1" style={{width: 25, height: 25, left: 1207, top: 2949, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 24.94, left: 0, top: 0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="AcshelpAcsOrg" style={{width: 145, height: 25, left: 1258, top: 2853, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>acshelp@acs.org</div>
+  <div className="083002000" style={{left: 1258, top: 2899, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>(08) 300 2000</div>
+  <div className="PhoneFlipSolid1" style={{width: 25, height: 25, left: 1207, top: 2896, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 25, left: -0, top: -0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="EnvelopeRegular1" style={{width: 25, height: 25, left: 1206, top: 2853, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 18.75, left: 0, top: 3.12, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="SquareTwitter1" style={{width: 25, height: 25, left: 40, top: 2952, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 21.88, left: 0, top: 1.56, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Rectangle2" style={{width: 1658, height: 65, left: 285, top: 141, position: 'absolute', background: '#86A789', borderRadius: 50}} />
+  <div className="Rectangle7" style={{width: 138, height: 65, left: 285, top: 141, position: 'absolute', background: 'rgba(157.73, 232.89, 164.56, 0.66)', borderRadius: 50}} />
+  <div className="Rectangle28" style={{width: 257, height: 65, left: 1686, top: 141, position: 'absolute', background: 'rgba(157.73, 232.89, 164.56, 0.66)', borderRadius: 50}} />
+  <div className="JohnDoe" style={{left: 1708, top: 154, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>John Doe</div>
+  <div className="ContactUs" style={{left: 629, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Contact Us</div>
+  <div className="ContactUs" style={{left: 1207, top: 2794, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>Contact Us</div>
+  <div className="AboutUs" style={{left: 452, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>About Us</div>
+  <div className="Home" style={{left: 307, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Home</div>
+  <div className="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSedDoEiusmodTemporIncididuntUtLaboreEtDoloreMagnaAliquaUtEnimAdMinimVeniamQuisNostrudExercitationUllamcoLaborisNisiUtAliquipExEaCommodoConsequat" style={{width: 588, height: 72, left: 40, top: 2853, position: 'absolute', color: '#514E4E', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </div>
+  <div className="AdvancedConsultingServices" style={{width: 932, height: 60, left: 112, top: 2795, position: 'absolute', color: 'white', fontSize: 32, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>Advanced Consulting Services</div>
+  <div className="Facebook21" style={{width: 25, height: 25, left: 112, top: 2952, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.22, height: 24.07, left: 0.39, top: 0.39, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Instagram1" style={{width: 25, height: 25, left: 184, top: 2952, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25.01, height: 21.88, left: -0, top: 1.55, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <img className="Logo11" style={{width: 275, height: 267, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/275x267" />
+  <img className="Logo12" style={{width: 80, height: 77.67, left: 32, top: 2782, position: 'absolute'}} src="https://via.placeholder.com/80x78" />
+  <div className="AdvancedConsultingServices" style={{width: 932, height: 60, left: 285, top: 28, position: 'absolute', color: 'black', fontSize: 64, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Advanced Consulting Services</div>
+  <img className="Usericon1" style={{width: 50, height: 50, left: 1872, top: 150, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+  <div className="Line3" style={{width: 365, height: 0, left: 1578, top: 289, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="Line4" style={{width: 365, height: 0, left: 1578, top: 353, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="Line5" style={{width: 365, height: 0, left: 1578, top: 413, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="Line6" style={{width: 365, height: 0, left: 1578, top: 478, position: 'absolute', border: '1px black solid'}}></div>
+  <img className="Createcampaign1" style={{width: 70, height: 63.09, left: 1578, top: 290, position: 'absolute'}} src="https://via.placeholder.com/70x63" />
+  <div className="CreateCampaign" style={{left: 1655, top: 302, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Create Campaign</div>
+  <img className="Usericon2" style={{width: 50, height: 50, left: 1588, top: 233, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+  <div className="Johndoe" style={{left: 1655, top: 239, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>@JohnDoe</div>
+  <img className="Manageaccount1" style={{width: 50, height: 50, left: 1588, top: 363, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+  <div className="ManageAccount" style={{left: 1655, top: 369, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Manage Account</div>
+  <div className="Help" style={{left: 1648, top: 424, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Help</div>
+  <div className="SignOff" style={{left: 1648, top: 489, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Sign Off</div>
+  <img className="Mouse1" style={{width: 50, height: 74.84, left: 1918, top: 388, position: 'absolute'}} src="https://via.placeholder.com/50x75" />
+  <img className="HelpIcon261" style={{width: 70, height: 39.38, left: 1578, top: 424, position: 'absolute'}} src="https://via.placeholder.com/70x39" />
+  <img className="Logout1" style={{width: 50, height: 50, left: 1588, top: 482, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+  <div className="ManageAccount" style={{left: 72, top: 360, position: 'absolute', color: 'black', fontSize: 60, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Manage Account</div>
+  <div className="Rectangle37" style={{width: 1830, height: 575, left: 72, top: 616, position: 'absolute', background: 'rgba(239, 204, 204, 0.50)', borderRadius: 30}} />
+  <div className="AccountInformation" style={{left: 137, top: 666, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>Account Information</div>
+  <div className="HelloJohnDoe" style={{left: 72, top: 488, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Hello, John Doe!</div>
+  <div className="NameJohnDoe" style={{left: 137, top: 737, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Name: John Doe</div>
+  <div className="EmailJohndoeGmailCom" style={{left: 137, top: 812, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Email: johndoe@gmail.com</div>
+  <div className="PhoneNumberXxxxXxx435" style={{left: 137, top: 887, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Phone Number: XXXX XXX 435</div>
+  <div className="Address49GroovyStLidcome2153" style={{left: 137, top: 962, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Address: 49 Groovy St, Lidcome 2153</div>
+  <div className="Rectangle38" style={{width: 316, height: 89, left: 137, top: 1043, position: 'absolute', background: '#F2837F', borderRadius: 30}} />
+  <div className="Rectangle45" style={{width: 183, height: 89, left: 479, top: 1043, position: 'absolute', background: 'rgba(242, 131, 127, 0.60)', borderRadius: 30}} />
+  <div className="Rectangle42" style={{width: 525, height: 89, left: 137, top: 1696, position: 'absolute', background: '#F2837F', borderRadius: 30}} />
+  <div className="EditProfile" style={{left: 180, top: 1058, position: 'absolute', color: 'black', fontSize: 45, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Edit Profile</div>
+  <div className="Delete" style={{left: 501, top: 1058, position: 'absolute', color: 'black', fontSize: 45, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Delete</div>
+  <div className="AddPaymentMethod" style={{left: 174, top: 1708, position: 'absolute', color: 'black', fontSize: 45, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Add Payment Method</div>
+  <img className="Addpp1" style={{width: 237, height: 200, left: 1443, top: 746, position: 'absolute'}} src="https://via.placeholder.com/237x200" />
+  <div className="ProfilePicture" style={{left: 1386, top: 984, position: 'absolute', color: 'black', fontSize: 45, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Profile Picture</div>
+  <div className="PaymentMethods" style={{left: 137, top: 1289, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>Payment Methods</div>
+  <div className="MyFavouriteCampaigns" style={{left: 137, top: 1934, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>My Favourite Campaigns</div>
+  <div className="3425" style={{left: 334, top: 1417, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>**** **** **** 3425</div>
+  <img className="Mastercard1" style={{width: 150, height: 100, left: 158, top: 1391, position: 'absolute'}} src="https://via.placeholder.com/150x100" />
+  <div className="27" style={{left: 892, top: 1417, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>03/27</div>
+  <img className="Delete1" style={{width: 80, height: 80, left: 1720, top: 1403, position: 'absolute'}} src="https://via.placeholder.com/80x80" />
+  <img className="Tick1" style={{width: 100, height: 100, left: 1474, top: 1403, position: 'absolute'}} src="https://via.placeholder.com/100x100" />
+  <img className="Warning1" style={{width: 80, height: 74.88, left: 1607, top: 1405, position: 'absolute'}} src="https://via.placeholder.com/80x75" />
+  <div className="8209" style={{left: 342, top: 1558, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>**** **** **** 8209</div>
+  <div className="25" style={{left: 900, top: 1558, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>09/25</div>
+  <img className="Delete2" style={{width: 80, height: 80, left: 1720, top: 1540, position: 'absolute'}} src="https://via.placeholder.com/80x80" />
+  <img className="Warning2" style={{width: 80, height: 74.88, left: 1607, top: 1543, position: 'absolute'}} src="https://via.placeholder.com/80x75" />
+  <div className="Visa1" style={{width: 100, height: 100, left: 183, top: 1532, position: 'absolute'}}>
+    <div className="Group" style={{width: 100, height: 100, left: 0, top: 0, position: 'absolute'}}>
+      <div className="Vector" style={{width: 100, height: 100, left: 0, top: 0, position: 'absolute'}}></div>
+      <div className="Vector" style={{width: 79.68, height: 17.55, left: 11.02, top: 59.08, position: 'absolute', background: '#E7A83A'}}></div>
+      <div className="Vector" style={{width: 91.18, height: 27.94, left: 4.41, top: 26.31, position: 'absolute', background: '#1D5B99'}}></div>
+    </div>
+  </div>
+  <div className="CampaignName" style={{left: 137, top: 2015, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="CampaignName" style={{left: 137, top: 2427, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="CampaignName" style={{left: 137, top: 2091, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="CampaignName" style={{left: 140, top: 2167, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="MyRecentDonations" style={{left: 137, top: 2355, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>My Recent Donations</div>
+  <div className="10" style={{left: 1274, top: 2427, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>$10</div>
+  <div className="Processing" style={{left: 1565, top: 2427, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Processing</div>
+  <div className="112023" style={{left: 773, top: 2431, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>10/11/2023</div>
+  <div className="CampaignName" style={{left: 137, top: 2483, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="15" style={{left: 1274, top: 2483, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>$15</div>
+  <div className="Approved" style={{left: 1578, top: 2483, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Approved</div>
+  <div className="102023" style={{left: 773, top: 2487, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>29/10/2023</div>
+  <div className="CampaignName" style={{left: 137, top: 2539, position: 'absolute', color: '#1877F2', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Campaign Name</div>
+  <div className="20" style={{left: 1274, top: 2539, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>$20</div>
+  <div className="Approved" style={{left: 1578, top: 2543, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>Approved</div>
+  <div className="102023" style={{left: 773, top: 2543, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', wordWrap: 'break-word'}}>13/10/2023</div>
+  <div className="Status" style={{left: 1607, top: 2355, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>Status</div>
+  <div className="Amount" style={{left: 1246, top: 2355, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>Amount</div>
+  <div className="Date" style={{left: 829, top: 2355, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '600', textDecoration: 'underline', wordWrap: 'break-word'}}>Date</div>
+</div>
