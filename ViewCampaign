@@ -1,0 +1,70 @@
+<div className="Viewcampaign" style={{width: 1980, height: 3600, position: 'relative', background: '#EBF3E8'}}>
+  <div className="Rectangle43" style={{width: 1907, height: 467, left: 23, top: 2617, position: 'absolute', background: 'rgba(239, 204, 204, 0.50)', borderRadius: 30}} />
+  <div className="Rectangle38" style={{width: 1284, height: 69, left: 333, top: 2312, position: 'absolute', background: '#EFD3D3', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 30}} />
+  <div className="Rectangle25" style={{width: 1980, height: 272, left: 0, top: 3328, position: 'absolute', background: '#B0B9AD'}} />
+  <div style={{left: 796, top: 3564, position: 'absolute', color: '#6E6A6A', fontSize: 20, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>2023</div>
+  <div className="AdvancedconsultingservicesAllRightsReserved" style={{left: 879, top: 3564, position: 'absolute', color: '#6E6A6A', fontSize: 20, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>AdvancedConsultingServices. All rights reserved</div>
+  <div className="Frame1" style={{width: 12, height: 42, left: 494, top: 3528, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0'}} />
+  <div className="CopyrightRegular1" style={{width: 18, height: 18, left: 558, top: 3561, position: 'absolute'}} />
+  <div className="Vector" style={{width: 20, height: 20, left: 849, top: 3568.39, position: 'absolute', background: '#6E6A6A'}}></div>
+  <div className="Line2" style={{width: 1890, height: 0, left: 1930, top: 3559, position: 'absolute', transform: 'rotate(179.87deg)', transformOrigin: '0 0', border: '1px black solid'}}></div>
+  <div className="KingStreetCanterburyNsw2193" style={{left: 1258, top: 3516, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>King Street, Canterbury NSW 2193</div>
+  <div className="LocationDotSolid1" style={{width: 25, height: 25, left: 1207, top: 3514, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 24.94, left: 0, top: 0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="AcshelpAcsOrg" style={{width: 145, height: 25, left: 1258, top: 3418, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>acshelp@acs.org</div>
+  <div className="083002000" style={{left: 1258, top: 3464, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>(08) 300 2000</div>
+  <div className="PhoneFlipSolid1" style={{width: 25, height: 25, left: 1207, top: 3461, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 25, left: -0, top: -0, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="EnvelopeRegular1" style={{width: 25, height: 25, left: 1206, top: 3418, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 18.75, left: 0, top: 3.12, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="SquareTwitter1" style={{width: 25, height: 25, left: 40, top: 3517, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25, height: 21.88, left: 0, top: 1.56, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Rectangle2" style={{width: 1658, height: 65, left: 285, top: 141, position: 'absolute', background: '#86A789', borderRadius: 50}} />
+  <div className="Rectangle7" style={{width: 138, height: 65, left: 285, top: 141, position: 'absolute', background: 'rgba(157.73, 232.89, 164.56, 0.66)', borderRadius: 50}} />
+  <div className="Rectangle28" style={{width: 257, height: 65, left: 1686, top: 141, position: 'absolute', background: 'rgba(157.73, 232.89, 164.56, 0.66)', borderRadius: 50}} />
+  <div className="JohnDoe" style={{left: 1708, top: 154, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>John Doe</div>
+  <div className="ContactUs" style={{left: 629, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Contact Us</div>
+  <div className="ContactUs" style={{left: 1207, top: 3359, position: 'absolute', color: 'white', fontSize: 24, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>Contact Us</div>
+  <div className="AboutUs" style={{left: 452, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>About Us</div>
+  <div className="Home" style={{left: 307, top: 150, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Home</div>
+  <div className="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSedDoEiusmodTemporIncididuntUtLaboreEtDoloreMagnaAliquaUtEnimAdMinimVeniamQuisNostrudExercitationUllamcoLaborisNisiUtAliquipExEaCommodoConsequat" style={{width: 588, height: 72, left: 40, top: 3418, position: 'absolute', color: '#514E4E', fontSize: 15, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </div>
+  <div className="AdvancedConsultingServices" style={{width: 932, height: 60, left: 112, top: 3360, position: 'absolute', color: 'white', fontSize: 32, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>Advanced Consulting Services</div>
+  <div className="Facebook21" style={{width: 25, height: 25, left: 112, top: 3517, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.22, height: 24.07, left: 0.39, top: 0.39, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="Instagram1" style={{width: 25, height: 25, left: 184, top: 3517, position: 'absolute'}}>
+    <div className="Vector" style={{width: 25.01, height: 21.88, left: -0, top: 1.55, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <img className="Logo11" style={{width: 275, height: 267, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/275x267" />
+  <img className="Logo12" style={{width: 80, height: 77.67, left: 32, top: 3347, position: 'absolute'}} src="https://via.placeholder.com/80x78" />
+  <div className="AdvancedConsultingServices" style={{width: 932, height: 60, left: 285, top: 28, position: 'absolute', color: 'black', fontSize: 64, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Advanced Consulting Services</div>
+  <img className="Usericon1" style={{width: 50, height: 50, left: 1872, top: 150, position: 'absolute'}} src="https://via.placeholder.com/50x50" />
+  <img className="Cox0383LithovueEmpowerOrStaffHero1980x8002" style={{width: 1900, height: 767.68, left: 43, top: 320, position: 'absolute', borderRadius: 10}} src="https://via.placeholder.com/1900x768" />
+  <div className="CampaignTitleCompanyNameOptional" style={{width: 1206, left: 52, top: 1141, position: 'absolute', color: 'black', fontSize: 60, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Campaign Title | Company Name (Optional)</div>
+  <div className="CampaignDescriptionSedUtPerspiciatisUndeOmnisIsteNatusErrorSitVoluptatemAccusantiumDoloremqueLaudantiumTotamRemAperiamEaqueIpsaQuaeAbIlloInventoreVeritatisEtQuasiArchitectoBeataeVitaeDictaSuntExplicaboNemoEnimIpsamVoluptatemQuiaVoluptasSitAspernaturAutOditAutFugitSedQuiaConsequunturMagniDoloresEosQuiRationeVoluptatemSequiNesciuntNequePorroQuisquamEstQuiDoloremIpsumQuiaDolorSitAmetConsecteturAdipisciVelitSedQuiaNonNumquamEiusModiTemporaInciduntUtLaboreEtDoloreMagnamAliquamQuaeratVoluptatemUtEnimAdMinimaVeniamQuisNostrumExercitationemUllamCorporisSuscipitLaboriosamNisiUtAliquidExEaCommodiConsequaturQuisAutemVelEumIureReprehenderitQuiInEaVoluptateVelitEsseQuamNihilMolestiaeConsequaturVelIllumQuiDoloremEumFugiatQuoVoluptasNullaPariatur" style={{width: 1891, left: 52, top: 1225, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Campaign Description<br/>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</div>
+  <div className="CausetypeIssuetype" style={{width: 542, left: 1258, top: 1161, position: 'absolute', opacity: 0.50, color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>#CauseType #IssueType</div>
+  <div className="ExpectedOutcomesLoremIpsumDolorSitAmetConsecteturAdipiscingElitSedDoEiusmodTemporIncididuntUtLaboreEtDoloreMagnaAliquaUtEnimAdMinimVeniamQuisNostrudExercitationUllamcoLaborisNisiUtAliquipExEaCommodoConsequat" style={{width: 1108, left: 52, top: 1798, position: 'absolute', color: 'black', fontSize: 40, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>Expected outcomes<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+  <img className="Stockdoc1" style={{width: 600, height: 337.96, left: 1258, top: 1798, position: 'absolute', borderRadius: 30}} src="https://via.placeholder.com/600x338" />
+  <div className="StockImageVideo" style={{left: 1291, top: 1934, position: 'absolute', color: 'white', fontSize: 60, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>stock image/ Video</div>
+  <div className="StockImageVideo" style={{left: 334, top: 618, position: 'absolute', color: 'white', fontSize: 150, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>stock image/ Video</div>
+  <div className="Rectangle37" style={{width: 958, height: 69, left: 333, top: 2312, position: 'absolute', background: '#FDB3B3', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 30}} />
+  <div className="15370Raised" style={{left: 757, top: 2248, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '700', wordWrap: 'break-word'}}>$ 15,370 raised</div>
+  <div className="Of20000" style={{left: 976, top: 2248, position: 'absolute', color: 'black', fontSize: 30, fontFamily: 'Krub', fontWeight: '400', wordWrap: 'break-word'}}>of $ 20,000</div>
+  <div className="RecentDonors" style={{left: 52, top: 2632, position: 'absolute', color: 'black', fontSize: 50, fontFamily: 'Krub', fontWeight: '700', textDecoration: 'underline', wordWrap: 'break-word'}}>Recent Donors</div>
+  <div className="JohnDoe" style={{left: 51, top: 2714, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>John Doe</div>
+  <div className="10" style={{left: 696, top: 2714, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>$10</div>
+  <div className="HopeThisHelps" style={{left: 1044, top: 2714, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Hope this helps :)</div>
+  <div className="PeterParker" style={{left: 51, top: 2773, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Peter Parker</div>
+  <div className="250" style={{left: 696, top: 2773, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>$250</div>
+  <div className="ILoveAndSupportThisCause" style={{left: 1044, top: 2773, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>I love and support this cause!</div>
+  <div className="PatrickStar" style={{left: 51, top: 2832, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Patrick Star</div>
+  <div className="50" style={{left: 696, top: 2832, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>$50</div>
+  <div className="Nice" style={{left: 1044, top: 2832, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>nice</div>
+  <div style={{left: 51, top: 2891, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>....</div>
+  <div style={{left: 51, top: 2950, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>....</div>
+  <div style={{left: 51, top: 3009, position: 'absolute', color: 'black', fontSize: 35, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>....</div>
+</div>
